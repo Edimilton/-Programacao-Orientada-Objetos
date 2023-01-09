@@ -33,6 +33,7 @@ class Avaliacao
 
       media = (unidade1 * P1 + unidade2 * P2 + u3 * P3) / (float)(P1 + P2 + P3);
     }
+  
 
     void resultado()
     {
